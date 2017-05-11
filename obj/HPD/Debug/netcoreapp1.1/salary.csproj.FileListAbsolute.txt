@@ -1,0 +1,8 @@
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\salary\bin\HPD\Debug\netcoreapp1.1\salary.deps.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\salary\bin\HPD\Debug\netcoreapp1.1\salary.runtimeconfig.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\salary\bin\HPD\Debug\netcoreapp1.1\salary.runtimeconfig.dev.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\salary\bin\HPD\Debug\netcoreapp1.1\salary.dll
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\salary\bin\HPD\Debug\netcoreapp1.1\salary.pdb
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\salary\obj\HPD\Debug\netcoreapp1.1\salary.AssemblyInfo.cs
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\salary\obj\HPD\Debug\netcoreapp1.1\salary.dll
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\salary\obj\HPD\Debug\netcoreapp1.1\salary.pdb
